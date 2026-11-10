@@ -11,7 +11,7 @@ Probably looking up at the skies ☁️ Or down into the oceans 🌊
 ---
 
 ### 🔬 What I Focus On
-* **Synoptic & Dynamic Meteorology:** Analyzing fluid dynamics, low-pressure systems, and heavy precipitation events (like my work on the 1967 Chicago blizzard).
+* ** (Currently) Synoptic & Dynamic Meteorology:** Analyzing fluid dynamics, low-pressure systems, and heavy precipitation events (like my work on the 1967 Chicago blizzard).
 * **Marine & Polar Research:** Investigating environmental transport mechanisms—including my research on **microplastic transport in the Arctic** (including work focused on the Beaufort Gyre & Sea).
 * **Geophysical Fluid Dynamics:** Testing theoretical principles using specialized Jupyter Notebooks and mathematical first principles.
 
