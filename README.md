@@ -5,7 +5,7 @@
 
 Probably looking up at the skies ☁️ Or down into the oceans 🌊 
 
-**Atmospheric & Oceanic Science Undergrad**
+**Atmospheric & Oceanic Science Undergrad, who loves math, easily distracted by weather, and somehow still finds an excuse to paddlebaord on the weekends**
 
 </div>
 ---
