@@ -8,3 +8,20 @@ Probably looking up at the skies ☁️ Or down into the oceans 🌊
 **Atmospheric & Oceanic Science Undergrad**
 
 </div>
+---
+
+### 🔬 What I Focus On
+* **Synoptic & Dynamic Meteorology:** Analyzing fluid dynamics, low-pressure systems, and heavy precipitation events (like my work on the 1967 Chicago blizzard).
+* **Climate Data & Research:** Investigating environmental transport mechanisms—from microplastic accumulation in the Arctic to ocean-atmosphere interactions.
+* **Geophysical Fluid Dynamics:** Testing theoretical principles using specialized Jupyter Notebooks and mathematical first principles.
+
+### 💻 Code & Tools I Use
+* **Languages:** Python (Primary), Bash/Shell
+* **Data Handling:** NetCDF datasets, ERA5 reanalysis data via the CDS-API
+* **Visualization & Analysis:** Cartopy, Matplotlib, NumPy, and specialized QG-omega diagnostic notebooks (`500hght_omeg.ipynb`, `QGomega_inversion.ipynb`)
+
+### 🌐 Who Can Access My Work?
+* **Public Repositories:** All of my undergraduate projects, open-source class repositories, and Python notebooks are fully public for fellow students, researchers, and developers to explore, fork, or review.
+* **Collaborations:** I frequently collaborate with academic mentors and professors on atmospheric diagnostics—feel free to reach out via GitHub or connect with me if you're working on similar research!
+
+---
