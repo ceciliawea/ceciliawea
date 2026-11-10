@@ -1,1 +1,1 @@
-![Profile Banner]([https://i.pinimg.com/originals/fd/40/a4/fd40a4b8b151c4e432106576187d03c9.gif](https://cdna.artstation.com/p/assets/images/images/041/936/978/original/lexey-kon-kov-10-progress.gif?1633107728))
+![Profile Banner]([[https://i.pinimg.com/originals/fd/40/a4/fd40a4b8b151c4e432106576187d03c9.gif](https://cdna.artstation.com/p/assets/images/images/041/936/978/original/lexey-kon-kov-10-progress.gif?1633107728)](https://64.media.tumblr.com/bf00f56ba9db3739a3c2ea4bdda2dc9a/a77044ff233a32a4-ac/s2048x3072/457db561c5d74d0db801fcfdd2d5087363d4d245.gif))
